@@ -23,3 +23,6 @@ You will need the following resources properly installed on the machine
 * [HTML] - HTML enhanced for web apps!
 * [CSS] - awesome web-based text editor
 * [Bootstrap] - Markdown parser done right. Fast and easy to extend.
+
+
+![alt tag](file:///Volumes/Data/lecture/Course/Screenshot-2018-5-13%20Binz%20App%20Landing%20Template.png)
