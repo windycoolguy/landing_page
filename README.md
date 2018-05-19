@@ -25,4 +25,4 @@ You will need the following resources properly installed on the machine
 * [Bootstrap] - Markdown parser done right. Fast and easy to extend.
 
 
-![alt tag](https://github.com/windycoolguy/landing_page/screen.png).
+![alt tag](https://github.com/windycoolguy/landing_page/screen.png)
